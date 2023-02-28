@@ -1,0 +1,65 @@
+{
+    "cards": [{
+            "id": "1",
+            "title": "Rathalos",
+            "subTitle": "Le roi des cieux",
+            "img": "../img/rathalos.jpg",
+            "position": "default"
+        },
+        {
+            "id": "2",
+            "title": "Rathian",
+            "subTitle": "La renne de la terre",
+            "img": "../img/rathian.jpg",
+            "position": "center"
+        },
+        {
+            "id": "3",
+            "title": "Rathalos Azur",
+            "subTitle": "L'éclipse bleutée",
+            "img": "../img/rathalosAzur.jpg",
+            "position": "default"
+        },
+        {
+            "id": "4",
+            "title": "Tigrex",
+            "subTitle": "La wyverne rugissante",
+            "img": "../img/tigrex.jpg",
+            "position": "right"
+        },
+        {
+            "id": "5",
+            "title": "Congalala",
+            "subTitle": "La bête à crocs",
+            "img": "../img/congalala.jpg",
+            "position": "center"
+        },
+        {
+            "id": "6",
+            "title": "Deviljho",
+            "subTitle": "Le cornichon démoniaque",
+            "img": "../img/deviljho.jpg",
+            "position": "default"
+        },
+        {
+            "id": "7",
+            "title": "Zinogre",
+            "subTitle": "L'oppresseur",
+            "img": "../img/zinogre.jpg",
+            "position": "default"
+        },
+        {
+            "id": "8",
+            "title": "Bazelgueuse",
+            "subTitle": "Le bombardier",
+            "img": "../img/bazelgeuse.jpg",
+            "position": "30%"
+        },
+        {
+            "id": "9",
+            "title": "Nergigante",
+            "subTitle": "Le Dragon destructeur",
+            "img": "../img/nergigante.jpg",
+            "position": "60%"
+        }]
+}
