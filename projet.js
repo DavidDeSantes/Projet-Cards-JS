@@ -31,7 +31,7 @@ fetch("data.json").then(reponse => {
         //     return value.title.toLowerCase().includes(searchInput.value.toLowerCase()) 
         //          || value.subTitle.toLowerCase().includes(searchInput.value.toLowerCase())
         // } )
-         //------------------------------------------
+        //------------------------------------------
           displayCards(newCards)
     })
 })
